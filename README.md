@@ -58,4 +58,4 @@ Some of the SQL operations performed in this project include:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/international-debt-analysis.git
+   git clone https://github.com/Seif-Allah-Amami/international-debt-analysis.git
