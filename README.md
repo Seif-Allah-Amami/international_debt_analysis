@@ -1,4 +1,4 @@
-<img src="image/usd.jpg" width="500"/>
+<img src="image/usd.jpg" width="1000"/>
 # 🌍 International Debt Analysis (World Bank Data)
 
 ## 📌 Project Overview
